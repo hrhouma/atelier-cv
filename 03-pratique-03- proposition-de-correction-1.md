@@ -1,4 +1,4 @@
-### ** Proposition de correction : Atelier 3 - Exercice Pratique 1**
+# Proposition de correction : Atelier 3 - Exercice Pratique 1
 
 ---
 
