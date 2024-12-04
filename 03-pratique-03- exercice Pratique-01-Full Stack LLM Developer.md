@@ -1,4 +1,4 @@
-# Atelier 3 : Exercice Pratique en Intelligence Artificielle  
+# Atelier 3 : Exercice Pratique 1
 
 **Durée :** 2 heures  
 **Objectif :** Cet exercice a pour but de vous préparer à postuler efficacement à des offres d’emploi dans le domaine de l’intelligence artificielle en mettant en valeur vos compétences techniques et votre compréhension des exigences des recruteurs. Vous devrez lire attentivement l’offre d’emploi et créer une candidature complète.  
