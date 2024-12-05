@@ -72,3 +72,72 @@ Aborder des sujets intimidants et nouveaux fait partie intégrante du travail en
 ---
 
 **💪 Relève le défi. Tu es ici pour apprendre et progresser, pas pour être parfait dès le départ.**
+
+
+---------------------
+# Annexe:
+---------------------
+
+C'est une réaction normale de se sentir intimidé par des concepts aussi avancés que les **LLM (Large Language Models)** et les **FM (Foundation Models)**, surtout si ce domaine semble réservé à de grandes entreprises comme OpenAI, Google ou Accenture. Mais il est important de vous rappeler de plusieurs choses pour vous motiver :
+
+---
+
+### **1. Peu de professionnels ont une expérience directe sur les LLM/FMs**  
+La vérité est que, même dans le secteur, peu de gens ont une **expérience directe** avec des LLM comme GPT ou BERT. Ces technologies sont encore récentes, et les entreprises elles-mêmes investissent massivement pour former leurs équipes.
+
+> **Message  :**  
+> _"Personne ne naît avec une expertise sur les LLM. Même les professionnels en IA doivent apprendre ces technologies sur le tas. C'est une opportunité pour nous de commencer à nous familiariser, même avec des bases. Tout le monde commence quelque part."_  
+
+---
+
+### **2. L'objectif n'est pas d'être expert, mais d'apprendre à explorer et s'adapter**  
+Postuler à une offre comme celle d'Accenture, ce n'est pas prétendre maîtriser toutes les technologies mentionnées, mais montrer une capacité à **apprendre rapidement** et une curiosité technique.
+
+> **Message :**  
+> _"L’exercice n’est pas là pour te faire mentir ou prétendre être un expert des LLM. Il est là pour te donner une structure pour montrer ta volonté d’apprendre et ta capacité à réfléchir sur des sujets complexes."_  
+
+---
+
+### **3. Tu as déjà des bases solides en IA – utilise-les !**  
+Même si tu n’as pas travaillé sur un LLM, il a certainement des connaissances en apprentissage automatique, en programmation, ou sur des concepts comme les réseaux de neurones. Ces bases sont **transférables**.
+
+> **Message :**  
+> _"Tu as fait des projets en IA, ce qui te donne déjà une longueur d’avance. Ce que tu sais sur les modèles de Machine Learning ou de Deep Learning peut s’appliquer directement ici. Il te suffit de comprendre comment ces modèles sont utilisés dans un contexte de langage naturel."_  
+
+---
+
+### **4. Les excuses ne mènent à rien – le progrès vient avec l’effort**  
+Il est naturel de vouloir éviter ce qui semble difficile, mais abandonner face à un défi est la plus grande erreur. Ce type d’exercice est là pour sortir de sa zone de confort et se rapprocher des attentes du monde professionnel (ça reste un point de vue).
+
+> **Message :**  
+> _"Je comprends que tu sois intimidé. Mais si tu renonces à apprendre, tu fermes une porte à des opportunités incroyables. Tu veux travailler dans l’IA ? Alors montre que tu es prêt à relever le défi, même si cela te semble nouveau ou difficile."_  
+
+---
+
+### **5. Des outils accessibles pour tous : pas besoin d’un supercalculateur**  
+Travailler avec des LLM ne nécessite pas d’être chez Google ou OpenAI. De nombreux outils et API sont **accessibles gratuitement ou à faible coût** (Hugging Face, OpenAI API).
+
+> **Message :**  
+> _"Tu n’as pas besoin d’une infrastructure de grande entreprise pour apprendre. Des plateformes comme Hugging Face ou OpenAI Playground te permettent de tester et d’interagir avec des LLM directement depuis ton navigateur."_  
+
+---
+
+### **6. Ton effort compte plus que ton expérience directe**  
+Les recruteurs ne cherchent pas uniquement des experts techniques. Ils cherchent des gens motivés, curieux, et capables de s’adapter.
+
+> **Message :**  
+> _"Ce que tu fais ici est ce que tout bon professionnel en IA fait : apprendre, explorer, et montrer qu’il est capable de travailler avec des technologies de pointe. C’est ça qui impressionne, pas le fait d’être déjà un expert."_  
+
+---
+
+### **Conclusion :**
+
+Tu n’as pas besoin d’être un **expert en LLM ou FM** pour réussir cet exercice. Ce qui compte, c’est de montrer :  
+1. **Ta capacité d’analyse** (en lisant l’offre et en comprenant les attentes).  
+2. **Ta créativité** (en rédigeant une candidature convaincante avec tes connaissances actuelles).  
+3. **Ta motivation à apprendre et t’améliorer.**  
+
+> **Comment me motiver:**  
+> _"Tu fais de l’IA, tu veux travailler sur des projets ambitieux, alors relève ce défi. Si tu attends d’être parfait pour te lancer, tu n’iras nulle part. Même un petit progrès compte, et chaque effort que tu fais te donne un avantage pour l’avenir. Fais de ton mieux et progresse !"_
+
+💪 **Le succès, c’est d’avancer, pas d’être parfait dès le début.**
