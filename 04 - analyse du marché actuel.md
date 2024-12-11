@@ -49,6 +49,27 @@ Voici quelques insights complémentaires basés sur les données de recherche :
 
 Vous pouvez consulter le tableau fourni pour une comparaison détaillée des technologies dominantes, frameworks, types d'apprentissage et secteurs d'application par région.
 
+
+# Annexe 01
+
+
+## Salaires en dollars américains (USD)
+- San Francisco : 157,196$ USD (environ 213,000$ CAD)
+- Boston : 120,000$ USD (environ 162,000$ CAD)
+
+## Ajustements importants pour le Canada
+- Les salaires au Canada sont généralement 20-30% plus bas qu'aux États-Unis pour des postes similaires en IA
+- Toronto (moyenne) : 95,000-130,000$ CAD
+- Vancouver (moyenne) : 90,000-125,000$ CAD
+
+## Facteurs influençant les écarts salariaux
+- Taux de change USD/CAD
+- Coût de la vie différent entre les deux pays
+- Marché de l'IA plus mature aux États-Unis
+- Concentration plus élevée de grandes entreprises technologiques aux États-Unis
+
+**Note importante** : Tous les salaires mentionnés précédemment dans ma réponse étaient en USD. Il est crucial de toujours vérifier la devise lors de la comparaison des offres d'emploi entre les deux pays.
+
 ### Citations:
 
 [1] https://vectorinstitute.ai/canadian-ai-job-market-shifting-favouring-specialized-in-demand-skills/
