@@ -111,13 +111,13 @@ La demande pour Python reste très forte avec une croissance de 22.5% d'une ann�
 Cette évolution montre que les fondamentaux Python restent essentiels, mais l'accès aux ressources de calcul s'est démocratisé grâce à de nouvelles solutions adaptées à différentes tailles d'entreprises.
 
 Citations:
-[1] https://www.dataquest.io/blog/python-programming-skills-you-need-to-work-with-ai-in-2024/
-[2] https://bwpeople.in/article/top-ai-skills-ml-and-python-will-rule-2024-job-market-indeed-524464
-[3] https://www.ai-startups.org/top/aiplatforms/
-[4] https://www.techrepublic.com/article/nvidia-gtc-2024-trends/
-[5] https://aws.amazon.com/blogs/machine-learning/aws-at-nvidia-gtc-2024-accelerate-innovation-with-generative-ai-on-aws/
-[6] https://www.newindianexpress.com/xplore/2024/Jun/28/ml-python-ai-core-skills-to-rule-2024-job-market-2
-[7] https://www.eetimes.eu/nvidia-gtc-2024-why-nvidia-dominates-ai/
+[1] https://www.dataquest.io/blog/python-programming-skills-you-need-to-work-with-ai-in-2024/ 
+[2] https://bwpeople.in/article/top-ai-skills-ml-and-python-will-rule-2024-job-market-indeed-524464 
+[3] https://www.ai-startups.org/top/aiplatforms/ 
+[4] https://www.techrepublic.com/article/nvidia-gtc-2024-trends/ 
+[5] https://aws.amazon.com/blogs/machine-learning/aws-at-nvidia-gtc-2024-accelerate-innovation-with-generative-ai-on-aws/ 
+[6] https://www.newindianexpress.com/xplore/2024/Jun/28/ml-python-ai-core-skills-to-rule-2024-job-market-2 
+[7] https://www.eetimes.eu/nvidia-gtc-2024-why-nvidia-dominates-ai/ 
 
 ### Citations:
 
