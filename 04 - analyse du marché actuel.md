@@ -25,8 +25,6 @@ Cette reformulation permet de :
 -----------------------------------
 
 
-![image](https://github.com/user-attachments/assets/8f2fe2b7-4394-40a5-bff1-0d59dc775b05)
-
 ```
 +---------------+----------------------------------------+-------------------------+----------------------------------------+------------------------+--------------------------------------------------+
 | Region        | Dominant Technologies                   | Specialized Frameworks  | Machine Learning Types                 | Emerging Applications  | Application Sectors                               |
