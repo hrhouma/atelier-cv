@@ -27,6 +27,18 @@ Cette reformulation permet de :
 
 ![image](https://github.com/user-attachments/assets/8f2fe2b7-4394-40a5-bff1-0d59dc775b05)
 
+```
++---------------+----------------------------------------+-------------------------+----------------------------------------+------------------------+--------------------------------------------------+
+| Region        | Dominant Technologies                   | Specialized Frameworks  | Machine Learning Types                 | Emerging Applications  | Application Sectors                               |
++---------------+----------------------------------------+-------------------------+----------------------------------------+------------------------+--------------------------------------------------+
+| Toronto       | Azure ML, AWS SageMaker, Python on GPU | TensorFlow, PyTorch    | supervised, unsupervised, reinforcement| generative AI,chatbots | finance, healthcare, logistics                    |
+| Vancouver     | Azure ML, AWS SageMaker, Python on GPU | YOLO, MediaPipe        | supervised, unsupervised, reinforcement| chatbots,generative AI | healthcare, construction, resource extraction     |
+| San Francisco | OpenAI, Salesforce AI, TensorFlow      | TensorFlow, PyTorch    | supervised, unsupervised, reinforcement| generative AI,chatbots | healthcare, finance, autonomous vehicles          |
+| New York      | TensorFlow, PyTorch                    | Hugging Face,LangChain | supervised, unsupervised, reinforcement| chatbots,generative AI | finance, healthcare, media, retail                |
+| Seattle       | Microsoft Azure, AWS, TensorFlow       | TensorFlow, PyTorch    | supervised, unsupervised              | generative AI,chatbots | aerospace, clean tech, IT, life sciences,maritime |
++---------------+----------------------------------------+-------------------------+----------------------------------------+------------------------+--------------------------------------------------+
+```
+
 Le tableau fourni dans les résultats de recherche présente déjà une comparaison détaillée des principales régions technologiques (Toronto, Vancouver, San Francisco, New York et Seattle) avec leurs caractéristiques spécifiques.
 
 Voici quelques insights complémentaires basés sur les données de recherche :
