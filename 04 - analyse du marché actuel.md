@@ -82,6 +82,43 @@ Vous pouvez consulter le tableau fourni pour une comparaison détaillée des tec
 
 **Note importante** : Tous les salaires mentionnés précédemment dans ma réponse étaient en USD. Il est crucial de toujours vérifier la devise lors de la comparaison des offres d'emploi entre les deux pays.
 
+# Annexe 2
+
+## Tendances actuelles dans l'utilisation de Python et GPU pour l'IA
+
+**Demande fondamentale de Python**
+La demande pour Python reste très forte avec une croissance de 22.5% d'une année sur l'autre[1]. 40% des offres d'emploi en IA exigent des compétences Python[2], confirmant son statut fondamental dans le domaine.
+
+## Options d'infrastructure selon la taille des entreprises
+
+**Grandes entreprises**
+- Utilisent principalement AWS, Azure et les services cloud établis
+- Accès aux dernières technologies comme les GPU NVIDIA Blackwell[4]
+- Capacité d'investir dans des "AI factories" pour le stockage et le calcul massif[4]
+
+**Startups**
+- CoreWeave : Propose une plateforme GPU cloud optimisée pour l'IA générative (Financement : 12.1B$)[3]
+- Together : Rend l'IA accessible via des modèles open-source (Financement : 228.5M$)[3]
+- Anyscale : Facilite le déploiement d'applications IA et Python scalables (Financement : 259M$)[3]
+
+## Nouvelles tendances d'infrastructure
+
+**Solutions émergentes**
+- Services GPU as a Service (GPUaaS) pour les petites entreprises[4]
+- Plateformes cloud spécialisées offrant des ressources GPU à la demande[4]
+- 83% des fournisseurs de services technologiques déploient ou pilotent l'IA générative[4]
+
+Cette évolution montre que les fondamentaux Python restent essentiels, mais l'accès aux ressources de calcul s'est démocratisé grâce à de nouvelles solutions adaptées à différentes tailles d'entreprises.
+
+Citations:
+[1] https://www.dataquest.io/blog/python-programming-skills-you-need-to-work-with-ai-in-2024/
+[2] https://bwpeople.in/article/top-ai-skills-ml-and-python-will-rule-2024-job-market-indeed-524464
+[3] https://www.ai-startups.org/top/aiplatforms/
+[4] https://www.techrepublic.com/article/nvidia-gtc-2024-trends/
+[5] https://aws.amazon.com/blogs/machine-learning/aws-at-nvidia-gtc-2024-accelerate-innovation-with-generative-ai-on-aws/
+[6] https://www.newindianexpress.com/xplore/2024/Jun/28/ml-python-ai-core-skills-to-rule-2024-job-market-2
+[7] https://www.eetimes.eu/nvidia-gtc-2024-why-nvidia-dominates-ai/
+
 ### Citations:
 
 [1] https://vectorinstitute.ai/canadian-ai-job-market-shifting-favouring-specialized-in-demand-skills/
