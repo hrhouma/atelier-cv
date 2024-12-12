@@ -108,6 +108,48 @@ La demande pour Python reste très forte avec une croissance de 22.5% d'une ann�
 
 Cette évolution montre que les fondamentaux Python restent essentiels, mais l'accès aux ressources de calcul s'est démocratisé grâce à de nouvelles solutions adaptées à différentes tailles d'entreprises.
 
+# Annexe 02 - Prévisions majeures pour 2025
+
+**Création d'emplois**
+- 97 millions de nouveaux emplois liés à l'IA d'ici 2025[6]
+- 12 millions d'emplois créés spécifiquement par l'IA[1]
+- 120 millions de travailleurs devront être requalifiés dans les 3 prochaines années[2]
+
+**Transformations organisationnelles**
+- 89% des structures IT subiront une restructuration[4]
+- 65% des organisations prévoient des changements structurels dus à l'IA générative[4]
+- 33% d'augmentation de l'IT intégré dans les entreprises (contre 18% en 2024)[4]
+
+**Évolution des compétences**
+- 95% des compétences IT actuelles devront évoluer d'ici 2030[4]
+- 57% des employeurs prévoient de combler les lacunes en IA générative par la formation[7]
+- Les compétences humaines (leadership, communication) restent plus demandées que les compétences techniques en IA[7]
+
+**Impact par génération**
+- Génération Z : estime que 56% de leurs tâches seront réalisées par l'IA
+- Génération X : prévoit 41% d'automatisation
+- Baby Boomers : anticipe 43% d'automatisation[4]
+
+## Secteurs les plus impactés
+- Marketing et publicité (37% d'adoption)
+- Technologie (35%)
+- Conseil (30%)
+- Enseignement (19%)
+- Santé (15%)[2]
+
+Citations:
+[1] https://blog.investengine.com/ai-is-expected-to-create-12-million-new-jobs-by-2025/
+[2] https://seo.ai/blog/ai-replacing-jobs-statistics
+[3] https://northwest.education/insights/artificial-intelligence/why-the-demand-for-ai-will-skyrocket/
+[4] https://www.newswire.ca/news-releases/42-of-it-professionals-are-exploring-new-jobs-it-talent-trends-2025-report-from-info-tech-research-group-spotlights-retention-risks-and-opportunities-894458506.html
+[5] https://news.microsoft.com/source/features/ai/6-ai-trends-youll-see-more-of-in-2025/
+[6] https://www.linkedin.com/pulse/future-job-market-ai-97-million-opportunities-2025-95iic
+[7] https://www.ciodive.com/news/generative-ai-adp-2025-talent-trends/733934/
+[8] https://www.dice.com/career-advice/preparing-to-boost-your-ai-skills-in-2025
+
+
+
+
 Citations:
 [1] https://www.dataquest.io/blog/python-programming-skills-you-need-to-work-with-ai-in-2024/ 
 [2] https://bwpeople.in/article/top-ai-skills-ml-and-python-will-rule-2024-job-market-indeed-524464 
