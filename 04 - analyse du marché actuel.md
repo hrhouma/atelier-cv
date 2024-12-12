@@ -137,6 +137,61 @@ Cette évolution montre que les fondamentaux Python restent essentiels, mais l'a
 - Enseignement (19%)
 - Santé (15%)[2]
 
+
+
+
+ # Annexe 03
+
+ ## Prévisions à court terme (2025-2030)
+
+**Technologies dominantes**
+- L'IA appliquée deviendra un standard opérationnel pour les entreprises
+- Connectivité zéro latence avec 6G et Wi-Fi 7
+- Cloud et edge computing généralisés
+- Véhicules ACES (Autonomes, Connectés, Électriques, Partagés)[2]
+
+**Transformations majeures**
+- 97 millions de nouveaux emplois liés à l'IA
+- 45% des organisations adopteront des technologies de mitigation climatique
+- Explosion de la biotechnologie et de la médecine préventive[2]
+
+## Prévisions à moyen terme (2035-2040)
+
+**Changements économiques**
+- La Chine dépassera les États-Unis comme première économie mondiale vers 2035[5]
+- L'Indonésie rejoindra le top 6 des économies mondiales
+- Transformation majeure du secteur énergétique nécessitant 4 billions de dollars d'investissements annuels[4]
+
+## Prévisions à long terme (2050-2075)
+
+**Économie mondiale**
+- Top 5 économies en 2050 : Chine, États-Unis, Inde, Indonésie, Allemagne[5]
+- L'Inde devrait devenir la 2e économie mondiale d'ici 2075[5]
+- Émergence de nouveaux géants : Nigeria, Pakistan, Égypte[5]
+
+**Tendances sociétales**
+- Croissance démographique mondiale proche de zéro d'ici 2075[5]
+- Villes intelligentes intégrant IA, drones autonomes et réalité augmentée[6]
+- Transformation complète de la mobilité urbaine avec véhicules autonomes[6]
+
+Citations:
+[1] https://www.weforum.org/stories/2021/10/technology-trends-top-10-mckinsey/
+[2] https://www.pluralsight.com/resources/blog/tech-operations/tech-in-2030
+[3] https://economics.td.com/ca-long-term-forecast
+[4] https://www.rolandberger.com/en/Insights/Global-Topics/Trend-Compendium/
+[5] https://beinsure.com/global-economy-outlook-2075/
+[6] https://www.orientsoftware.com/blog/technology-in-50-years/
+[7] https://www.campaignforamillion.com/post/the-25-largest-economies-in-the-world-by-2075-a-forecast-by-goldman-sachs
+[8] https://www.pwc.com/gx/en/research-insights/economy/the-world-in-2050.html
+
+
+
+
+
+
+
+
+
 Citations:
 [1] https://blog.investengine.com/ai-is-expected-to-create-12-million-new-jobs-by-2025/
 [2] https://seo.ai/blog/ai-replacing-jobs-statistics
