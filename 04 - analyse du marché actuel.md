@@ -11,7 +11,7 @@
 5. Les secteurs d'application (banque, marketing, médical)
 6. L'impact sur l'automatisation dans ces différents domaines
 
-En se basant sur les données du marché de l'emploi actuel, quelles sont les technologies et compétences les plus recherchées et comment se comparent-elles entre elles ?"
+En se basant sur les données du marché de l'emploi actuel, quelles sont les technologies et compétences les plus recherchées et comment se comparent-elles entre elles ?
 
 
 - Structurer l'analyse par catégories distinctes
