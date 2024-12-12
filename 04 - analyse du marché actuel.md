@@ -13,7 +13,7 @@
 
 En se basant sur les données du marché de l'emploi actuel, quelles sont les technologies et compétences les plus recherchées et comment se comparent-elles entre elles ?"
 
-Cette reformulation permet de :
+
 - Structurer l'analyse par catégories distinctes
 - Mettre l'accent sur les tendances actuelles du marché du travail
 - Inclure une dimension comparative entre les différentes technologies et domaines
