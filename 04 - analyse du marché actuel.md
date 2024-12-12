@@ -41,27 +41,26 @@ Le tableau fourni dans les résultats de recherche présente déjà une comparai
 
 Voici quelques insights complémentaires basés sur les données de recherche :
 
-1. Croissance du marché :
+# 1. Croissance du marché :
 - Augmentation de 37% de la demande en compétences IA fondamentales entre 2018 et 2023  [1]
 - Hausse de 5.6% des offres d'emploi en IA du Q1 au Q2 2024  [4]
 
-2. Principales zones géographiques :
+# 2. Principales zones géographiques :
 - San Francisco domine avec 22% des offres d'emploi en IA aux États-Unis  [7]
 - Toronto est devenue l'épicentre canadien de l'IA générative, se classant 7e en Amérique du Nord  [9]
 
-3. Tendances salariales :
+# 3. Tendances salariales :
 - Le salaire médian pour les postes en IA a atteint 157,196$ au Q2 2024  [4]
 - Les professionnels de l'IA à Boston gagnent en moyenne 120,000$ annuellement  [7]
 
-4. Secteurs émergents :
+# 4. Secteurs émergents :
 - Les compétences liées à la gestion des systèmes IA et des projets de machine learning ont connu la plus forte croissance (48% et 60% respectivement) au Canada  [6]
 - Les startups canadiennes font face à des défis pour recruter des profils seniors spécialisés  [6]
 
-Vous pouvez consulter le tableau fourni pour une comparaison détaillée des technologies dominantes, frameworks, types d'apprentissage et secteurs d'application par région.
 
-
+-------------------------
 # Annexe 01
-
+-------------------------
 
 ## Salaires en dollars américains (USD)
 - San Francisco : 157,196$ USD (environ 213,000$ CAD)
@@ -80,7 +79,9 @@ Vous pouvez consulter le tableau fourni pour une comparaison détaillée des tec
 
 **Note importante** : Tous les salaires mentionnés précédemment dans ma réponse étaient en USD. Il est crucial de toujours vérifier la devise lors de la comparaison des offres d'emploi entre les deux pays.
 
+-------------------------
 # Annexe 2
+-------------------------
 
 ## Tendances actuelles dans l'utilisation de Python et GPU pour l'IA
 
@@ -108,7 +109,9 @@ La demande pour Python reste très forte avec une croissance de 22.5% d'une ann�
 
 Cette évolution montre que les fondamentaux Python restent essentiels, mais l'accès aux ressources de calcul s'est démocratisé grâce à de nouvelles solutions adaptées à différentes tailles d'entreprises.
 
-# Annexe 02 - Prévisions majeures pour 2025
+-------------------------
+# Annexe 3 - Prévisions majeures pour 2025
+-------------------------
 
 **Création d'emplois**
 - 97 millions de nouveaux emplois liés à l'IA d'ici 2025  [6]
@@ -139,8 +142,9 @@ Cette évolution montre que les fondamentaux Python restent essentiels, mais l'a
 
 
 
-
- # Annexe 03
+-------------------------
+ # Annexe 4
+ -------------------------
 
  ## Prévisions à court terme (2025-2030)
 
@@ -176,9 +180,9 @@ Cette évolution montre que les fondamentaux Python restent essentiels, mais l'a
 
 
 
-
-
-# Annexe 04
+-------------------------
+# Annexe 5
+-------------------------
 
 ## Court terme (2025-2030)
 
@@ -221,167 +225,90 @@ Cette évolution montre que les fondamentaux Python restent essentiels, mais l'a
 - Communication et travail d'équipe  [4]
 - Expertise en IA augmentée  [6]
 
-Citations:
-  [1] https://finance.yahoo.com/news/15-jobs-demand-2030-142925021.html
-  [2] https://www.linkedin.com/pulse/future-proof-careers-most-in-demand-ai-professions-kashif-siddiqui-ildof
-  [3] https://www.nobledesktop.com/careers/python-developer/job-outlook
-  [4] https://www.weforum.org/press/2020/10/recession-and-automation-changes-our-future-of-work-but-there-are-jobs-coming-report-says-52c5162fce/
-  [5] https://www.mckinsey.com/mgi/our-research/generative-ai-and-the-future-of-work-in-america
-  [6] https://www.lewissilkin.com/-/media/files/main/firmwide/The%20Future%20of%20Work%20in%202050%20report.pdf
+-------------
+# Citations:
+-------------
+
+  -  https://finance.yahoo.com/news/15-jobs-demand-2030-142925021.html
+  -  https://www.linkedin.com/pulse/future-proof-careers-most-in-demand-ai-professions-kashif-siddiqui-ildof
+  -  https://www.nobledesktop.com/careers/python-developer/job-outlook
+  -  https://www.weforum.org/press/2020/10/recession-and-automation-changes-our-future-of-work-but-there-are-jobs-coming-report-says-52c5162fce/
+  -  https://www.mckinsey.com/mgi/our-research/generative-ai-and-the-future-of-work-in-america
+  -  https://www.lewissilkin.com/-/media/files/main/firmwide/The%20Future%20of%20Work%20in%202050%20report.pdf
+  -  https://www.weforum.org/stories/2021/10/technology-trends-top-10-mckinsey/
+  -  https://www.pluralsight.com/resources/blog/tech-operations/tech-in-2030
+  -  https://economics.td.com/ca-long-term-forecast
+  -  https://www.rolandberger.com/en/Insights/Global-Topics/Trend-Compendium/
+  -  https://beinsure.com/global-economy-outlook-2075/
+  -  https://www.orientsoftware.com/blog/technology-in-50-years/
+  -  https://www.campaignforamillion.com/post/the-25-largest-economies-in-the-world-by-2075-a-forecast-by-goldman-sachs
+  -  https://www.pwc.com/gx/en/research-insights/economy/the-world-in-2050.html
+  -  https://blog.investengine.com/ai-is-expected-to-create-12-million-new-jobs-by-2025/
+  -  https://seo.ai/blog/ai-replacing-jobs-statistics
+  -  https://northwest.education/insights/artificial-intelligence/why-the-demand-for-ai-will-skyrocket/
+  -  https://www.newswire.ca/news-releases/42-of-it-professionals-are-exploring-new-jobs-it-talent-trends-2025-report-from-info-tech-research-group-spotlights-retention-risks-and-opportunities-894458506.html
+  -  https://news.microsoft.com/source/features/ai/6-ai-trends-youll-see-more-of-in-2025/
+  -  https://www.linkedin.com/pulse/future-job-market-ai-97-million-opportunities-2025-95iic
+  -  https://www.ciodive.com/news/generative-ai-adp-2025-talent-trends/733934/
+  -  https://www.dice.com/career-advice/preparing-to-boost-your-ai-skills-in-2025
+  -  https://www.dataquest.io/blog/python-programming-skills-you-need-to-work-with-ai-in-2024/
+  -  https://bwpeople.in/article/top-ai-skills-ml-and-python-will-rule-2024-job-market-indeed-524464
+  -  https://www.ai-startups.org/top/aiplatforms/
+  -  https://www.techrepublic.com/article/nvidia-gtc-2024-trends/
+  -  https://aws.amazon.com/blogs/machine-learning/aws-at-nvidia-gtc-2024-accelerate-innovation-with-generative-ai-on-aws/
+  -  https://www.newindianexpress.com/xplore/2024/Jun/28/ml-python-ai-core-skills-to-rule-2024-job-market-2
+  -  https://www.eetimes.eu/nvidia-gtc-2024-why-nvidia-dominates-ai/
+  -  https://vectorinstitute.ai/canadian-ai-job-market-shifting-favouring-specialized-in-demand-skills/
+  - https://www.winterstaffing.com/the-ai-revolution-navigating-ai-job-trends/
+  - https://blog.getaura.ai/ai-job-trends-for-july-2024-spotting-growth-markets-for-artificial-intelligence
+  - https://www.profocustechnology.com/general/tech-employment-2024-market-trends-report/
+  - https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer/countries/pwc-ai-jobs-barometer-canada.pdf
+  - https://www.globenewswire.com/news-release/2024/10/30/2971644/0/en/Canadian-AI-job-market-shifting-favouring-specialized-in-demand-skills.html
+  - https://www.ml-jobs.ai/blog/ai-job-opportunities-top-cities-in-the-usa-for-2024
+  - https://www.jobspikr.com/blog/ai-and-machine-learning-shaping-job-market-trends/
+  - https://ca.indeed.com/career-advice/news/gen-ai-jobs-increase-canada
+  - https://www.ctvnews.ca/business/here-s-what-jobs-will-survive-in-the-ai-boom-statistics-canada-estimates-1.7028232
+  - https://digitaldefynd.com/IQ/top-countries-to-build-career-in-ai/
+  - https://www.canada.ca/en/innovation-science-economic-development/news/2024/10/federal-government-launches-programs-to-help-small-and-medium-sized-enterprises-adopt-and-adapt-artificial-intelligence-solutions.html
+  - https://www.visualcapitalist.com/top-us-states-for-ai-jobs/
+  - https://www.jobbank.gc.ca/marketreport/outlook-occupation/227159/ca
+  - https://torontoglobal.ca/business-insights/toronto-as-a-leader-in-specialized-ai-talent/
+  - https://wnplsolutions.com/info/exploring-ai-in-toronto/
+  - https://www.sas.com/en_gb/insights/articles/analytics/machine-learning-algorithms.html
+  - https://thetechfactor.ca/new-toronto-incubator-just-launched-for-generative-ai-firms/
+  - https://hellodarwin.com/agencies/artificial-intelligence/toronto
+  - https://hellodarwin.com/agencies/artificial-intelligence/vancouver
+  - https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/
+  - https://www.oracle.com/ca-en/artificial-intelligence/machine-learning/what-is-machine-learning/
+  - https://yesvancouver.ca/blog/top-ai-innovators-and-companies-thriving-in-vancouver
+  - https://investvancouver.ca/Documents/applied-ai-presents-opportunities.pdf
+  - https://www.aleaitsolutions.com/top-10-ai-development-companies-in-san-francisco/
+  - https://techbehemoths.com/companies/artificial-intelligence/san-francisco
+  - https://www.igmguru.com/machine-learning-ai/machine-learning-training-course-in-san-francisco
+  - https://www.aleaitsolutions.com/ai-powered-startups-and-innovation-in-san-franciscos-tech-scene-shaping-the-future-of-software/
+  - https://www.datacamp.com/blog/top-ai-frameworks-and-libraries
+  - https://www.synergisticit.com/machine-learning-training-in-new-york-city/
+  - https://www.governor.ny.gov/news/governor-hochul-launches-first-phase-empire-ai-powering-critical-research-public-good-just-six
+  - https://www.pymnts.com/news/artificial-intelligence/2024/new-york-city-that-never-sleeps-dreams-being-silicon-valley/
+  - https://www.ascend.vc/blog/mapping-the-emerald-citys-growing-ai-dominance
+  - https://seattle.gov/tech/data-privacy/the-citys-responsible-use-of-artificial-intelligence
+  - https://www.builtinseattle.com/articles/machine-learning-companies-seattle
+  - https://www.under30ceo.com/seattle-plans-ai-focused-startup-incubator/
+  - https://greater-seattle.com/ai/
+
+
+
+ https://www.jobspikr.com/blog/ai-and-machine-learning-shaping-job-market-trends/
+
+   https://mobidev.biz/blog/future-machine-learning-trends-impact-business
+
+ https://www.ocbridge.ai/ai-ml-job-market-a-surge-in-demand/
+
+  https://www.pwc.com/gx/en/news-room/press-releases/2024/pwc-2024-global-ai-jobs-barometer.html
+
+ https://www.aiplusinfo.com/blog/common-algorithms-in-ai-supervised-unsupervised-and-reinforcement-learning/
+
+  https://365datascience.com/career-advice/data-scientist-job-market/
+
+ https://www.forbes.com/sites/rachelwells/2024/09/11/ai-trends-that-will-impact-your-job/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Citations:
-  [1] https://www.weforum.org/stories/2021/10/technology-trends-top-10-mckinsey/
-  [2] https://www.pluralsight.com/resources/blog/tech-operations/tech-in-2030
-  [3] https://economics.td.com/ca-long-term-forecast
-  [4] https://www.rolandberger.com/en/Insights/Global-Topics/Trend-Compendium/
-  [5] https://beinsure.com/global-economy-outlook-2075/
-  [6] https://www.orientsoftware.com/blog/technology-in-50-years/
-  [7] https://www.campaignforamillion.com/post/the-25-largest-economies-in-the-world-by-2075-a-forecast-by-goldman-sachs
-  [8] https://www.pwc.com/gx/en/research-insights/economy/the-world-in-2050.html
-
-
-
-
-
-
-
-
-
-Citations:
-  [1] https://blog.investengine.com/ai-is-expected-to-create-12-million-new-jobs-by-2025/
-  [2] https://seo.ai/blog/ai-replacing-jobs-statistics
-  [3] https://northwest.education/insights/artificial-intelligence/why-the-demand-for-ai-will-skyrocket/
-  [4] https://www.newswire.ca/news-releases/42-of-it-professionals-are-exploring-new-jobs-it-talent-trends-2025-report-from-info-tech-research-group-spotlights-retention-risks-and-opportunities-894458506.html
-  [5] https://news.microsoft.com/source/features/ai/6-ai-trends-youll-see-more-of-in-2025/
-  [6] https://www.linkedin.com/pulse/future-job-market-ai-97-million-opportunities-2025-95iic
-  [7] https://www.ciodive.com/news/generative-ai-adp-2025-talent-trends/733934/
-  [8] https://www.dice.com/career-advice/preparing-to-boost-your-ai-skills-in-2025
-
-
-
-
-Citations:
-  [1] https://www.dataquest.io/blog/python-programming-skills-you-need-to-work-with-ai-in-2024/ 
-  [2] https://bwpeople.in/article/top-ai-skills-ml-and-python-will-rule-2024-job-market-indeed-524464 
-  [3] https://www.ai-startups.org/top/aiplatforms/ 
-  [4] https://www.techrepublic.com/article/nvidia-gtc-2024-trends/ 
-  [5] https://aws.amazon.com/blogs/machine-learning/aws-at-nvidia-gtc-2024-accelerate-innovation-with-generative-ai-on-aws/ 
-  [6] https://www.newindianexpress.com/xplore/2024/Jun/28/ml-python-ai-core-skills-to-rule-2024-job-market-2 
-  [7] https://www.eetimes.eu/nvidia-gtc-2024-why-nvidia-dominates-ai/ 
-
-### Citations:
-
-  [1] https://vectorinstitute.ai/canadian-ai-job-market-shifting-favouring-specialized-in-demand-skills/
-
-  [2] https://www.winterstaffing.com/the-ai-revolution-navigating-ai-job-trends/
-
-  [3] https://blog.getaura.ai/ai-job-trends-for-july-2024-spotting-growth-markets-for-artificial-intelligence
-
-  [4] https://www.profocustechnology.com/general/tech-employment-2024-market-trends-report/
-
-  [5] https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer/countries/pwc-ai-jobs-barometer-canada.pdf
-
-  [6] https://www.globenewswire.com/news-release/2024/10/30/2971644/0/en/Canadian-AI-job-market-shifting-favouring-specialized-in-demand-skills.html
-
-  [7] https://www.ml-jobs.ai/blog/ai-job-opportunities-top-cities-in-the-usa-for-2024
-
-  [8] https://www.jobspikr.com/blog/ai-and-machine-learning-shaping-job-market-trends/
-
-  [9] https://ca.indeed.com/career-advice/news/gen-ai-jobs-increase-canada
-
-  [10] https://www.ctvnews.ca/business/here-s-what-jobs-will-survive-in-the-ai-boom-statistics-canada-estimates-1.7028232
-
-  [11] https://digitaldefynd.com/IQ/top-countries-to-build-career-in-ai/
-
-  [12] https://www.canada.ca/en/innovation-science-economic-development/news/2024/10/federal-government-launches-programs-to-help-small-and-medium-sized-enterprises-adopt-and-adapt-artificial-intelligence-solutions.html
-
-  [13] https://www.visualcapitalist.com/top-us-states-for-ai-jobs/
-
-  [14] https://www.jobbank.gc.ca/marketreport/outlook-occupation/227159/ca
-
-  [15] https://torontoglobal.ca/business-insights/toronto-as-a-leader-in-specialized-ai-talent/
-
-  [16] https://wnplsolutions.com/info/exploring-ai-in-toronto/
-
-  [17] https://www.sas.com/en_gb/insights/articles/analytics/machine-learning-algorithms.html
-
-  [18] https://thetechfactor.ca/new-toronto-incubator-just-launched-for-generative-ai-firms/
-
-  [19] https://hellodarwin.com/agencies/artificial-intelligence/toronto
-
-  [20] https://hellodarwin.com/agencies/artificial-intelligence/vancouver
-
-  [21] https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/
-
-  [22] https://www.oracle.com/ca-en/artificial-intelligence/machine-learning/what-is-machine-learning/
-
-  [23] https://yesvancouver.ca/blog/top-ai-innovators-and-companies-thriving-in-vancouver
-
-  [24] https://investvancouver.ca/Documents/applied-ai-presents-opportunities.pdf
-
-  [25] https://www.aleaitsolutions.com/top-10-ai-development-companies-in-san-francisco/
-
-  [26] https://techbehemoths.com/companies/artificial-intelligence/san-francisco
-
-  [27] https://www.igmguru.com/machine-learning-ai/machine-learning-training-course-in-san-francisco
-
-  [28] https://www.aleaitsolutions.com/ai-powered-startups-and-innovation-in-san-franciscos-tech-scene-shaping-the-future-of-software/
-
-  [29] https://www.datacamp.com/blog/top-ai-frameworks-and-libraries
-
-  [30] https://www.synergisticit.com/machine-learning-training-in-new-york-city/
-
-  [31] https://www.governor.ny.gov/news/governor-hochul-launches-first-phase-empire-ai-powering-critical-research-public-good-just-six
-
-  [32] https://www.pymnts.com/news/artificial-intelligence/2024/new-york-city-that-never-sleeps-dreams-being-silicon-valley/
-
-  [33] https://www.ascend.vc/blog/mapping-the-emerald-citys-growing-ai-dominance
-
-  [34] https://seattle.gov/tech/data-privacy/the-citys-responsible-use-of-artificial-intelligence
-
-  [35] https://www.builtinseattle.com/articles/machine-learning-companies-seattle
-
-  [36] https://www.under30ceo.com/seattle-plans-ai-focused-startup-incubator/
-
-  [37] https://greater-seattle.com/ai/
-
-
-
-  [41] https://www.jobspikr.com/blog/ai-and-machine-learning-shaping-job-market-trends/
-
-  [42] https://mobidev.biz/blog/future-machine-learning-trends-impact-business
-
-  [43] https://www.ocbridge.ai/ai-ml-job-market-a-surge-in-demand/
-
-  [44] https://www.pwc.com/gx/en/news-room/press-releases/2024/pwc-2024-global-ai-jobs-barometer.html
-
-  [45] https://www.aiplusinfo.com/blog/common-algorithms-in-ai-supervised-unsupervised-and-reinforcement-learning/
-
-  [46] https://365datascience.com/career-advice/data-scientist-job-market/
-
-  [47] https://www.forbes.com/sites/rachelwells/2024/09/11/ai-trends-that-will-impact-your-job/
