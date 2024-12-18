@@ -101,3 +101,8 @@ En réalisant cet exercice, vous allez non seulement développer des compétence
 
 # Conclusion: 
 Si vous suivez ces étapes, vous aurez une solution simple et efficace pour organiser et automatiser votre recherche d’emploi ! 
+
+# Références utiles: 
+- https://www.youtube.com/watch?v=JtdUgJGI_Oo
+- https://www.youtube.com/watch?v=50Io6b-RMfM
+- https://www.youtube.com/watch?v=SrOo0YsNYQg
