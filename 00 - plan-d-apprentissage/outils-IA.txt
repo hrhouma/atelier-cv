@@ -1,0 +1,34 @@
+
+------------------------
+Prompt engineering
+------------------------
+Prompt tunning 
+
+Prompt 1 ==­> Prompt 2 ==> Prompt 3 ==> Prompt 4 ==> Résultat final
+
+Feed RSS 	==> Extraire le titre 
+			==> Résumé du contenu
+			==> Génère du nouveau contenu 
+			==> Publier
+			
+Canvas / Zappier / Make integromate
+
+
+------------------------
+# Partie Chatbot 
+------------------------
+
+Processus itératif pour entrainer un chatbot à partir 
+des autres chatbots dans un premier temps.
+
+chatbot2 (payant HR) 			==> Chatbot 1
+chatbot3 (payant programmation) ==> Chatbot 1
+chatbot4 (payant Marketing) 	==> Chatbot 1
+			
+Dans un deuxième temps, mes utilisateurs vont commencer à saisir 
+leur données.
+Les données c'est de l'or 
+Les données seront utiliser pour durcifier mon chatbot  
+
+
+
