@@ -1,8 +1,8 @@
-### Partie Avancée : Techniques et Concepts en Prompt Engineering et Prompt Tuning
+# Techniques et Concepts en Prompt Engineering et Prompt Tuning
 
 ---
 
-#### **1. Approfondir la conception des workflows complexes**
+# **1. Approfondir la conception des workflows complexes**
 
 Pour des tâches complexes impliquant des chaînes de prompts, il est essentiel d’intégrer des mécanismes de validation, de rétroaction (feedback loops), et d’optimisation. Voici les concepts à approfondir :
 
@@ -27,7 +27,7 @@ Chaque prompt est conçu pour produire des résultats intermédiaires précis, u
     Combine ces paragraphes dans un format structuré avec une introduction et une conclusion : <paragraphes>
     ```
 
-##### **2. Chaînage Conditionnel :**
+# **2. Chaînage Conditionnel :**
 En fonction des résultats d’un prompt, orientez le workflow dans différentes directions.
 
 - **Exemple : Vérification avant publication**
@@ -132,7 +132,7 @@ Appliquez des conditions pour personnaliser les prompts.
 
 ---
 
-### **3. Automatisation avec Outils de Workflow et Intégration**
+# **3. Automatisation avec Outils de Workflow et Intégration**
 
 ##### **A. Couplage des modèles IA avec Make/Integromat**
 - **Objectif** : Créer des workflows sans intervention humaine.
@@ -148,7 +148,7 @@ Appliquez des conditions pour personnaliser les prompts.
 
 ---
 
-### **4. Optimisation Avancée avec Fine-tuning**
+# **4. Optimisation Avancée avec Fine-tuning**
 
 Fine-tuning consiste à ajuster un modèle avec vos propres données pour des résultats spécifiques et cohérents.
 
@@ -166,7 +166,7 @@ Fine-tuning consiste à ajuster un modèle avec vos propres données pour des r�
 
 ---
 
-### **5. Cas d’Utilisation Avancés**
+# **5. Cas d’Utilisation Avancés**
 
 ##### **A. Génération de Chatbots Contextuels**
 - Entraîner des prompts pour répondre à des questions fréquentes spécifiques à une industrie (médecine, finance, e-commerce).
@@ -177,6 +177,4 @@ Fine-tuning consiste à ajuster un modèle avec vos propres données pour des r�
 ##### **C. Détection et Résolution de Conflits**
 - Utiliser des prompts pour analyser et résoudre des incohérences dans des bases de données ou des rapports.
 
----
 
-Ce volet avancé couvre l'essence de la maîtrise en Prompt Engineering et Prompt Tuning. Souhaitez-vous approfondir des exemples ou intégrer des ateliers pratiques avec des outils spécifiques comme Make ou Zapier ?
