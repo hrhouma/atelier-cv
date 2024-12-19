@@ -4,4 +4,4 @@
 - https://fal.ai/dashboard
 - https://zapier.com/
 - https://www.fluxpro.ai/fr/dashboard
-- https://rehouma-s-site.thinkific.com/
+- http://rehouma-s-site.thinkific
